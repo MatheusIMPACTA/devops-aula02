@@ -1,4 +1,5 @@
 # devops-aula02
 Sean Connely
-Kanie West
+Irmão do Michael Kile
 Ice Cube
+Doni de Vito
